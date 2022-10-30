@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KNUTGSH\\3 Курс\\Прога\\lab1_2.1\\lab1_2.1\\lab1_2.1.csproj",
+      "projectUniqueName": "D:\\KNUTGSH\\3 Курс\\Labs\\Labs\\Lab1\\lab1_2.1\\lab1_2.1\\lab1_2.1.csproj",
       "projectName": "lab1_2.1",
-      "projectPath": "D:\\KNUTGSH\\3 Курс\\Прога\\lab1_2.1\\lab1_2.1\\lab1_2.1.csproj",
+      "projectPath": "D:\\KNUTGSH\\3 Курс\\Labs\\Labs\\Lab1\\lab1_2.1\\lab1_2.1\\lab1_2.1.csproj",
       "packagesPath": "C:\\Users\\lesne\\.nuget\\packages\\",
-      "outputPath": "D:\\KNUTGSH\\3 Курс\\Прога\\lab1_2.1\\lab1_2.1\\obj\\",
+      "outputPath": "D:\\KNUTGSH\\3 Курс\\Labs\\Labs\\Lab1\\lab1_2.1\\lab1_2.1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

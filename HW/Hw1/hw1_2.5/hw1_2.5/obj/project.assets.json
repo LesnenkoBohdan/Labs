@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KNUTGSH\\3 Курс\\Прога\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\hw1_2.5.csproj",
+      "projectUniqueName": "D:\\KNUTGSH\\3 Курс\\Labs\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\hw1_2.5.csproj",
       "projectName": "hw1_2.5",
-      "projectPath": "D:\\KNUTGSH\\3 Курс\\Прога\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\hw1_2.5.csproj",
+      "projectPath": "D:\\KNUTGSH\\3 Курс\\Labs\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\hw1_2.5.csproj",
       "packagesPath": "C:\\Users\\lesne\\.nuget\\packages\\",
-      "outputPath": "D:\\KNUTGSH\\3 Курс\\Прога\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\obj\\",
+      "outputPath": "D:\\KNUTGSH\\3 Курс\\Labs\\HW\\Hw1\\hw1_2.5\\hw1_2.5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "c:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
