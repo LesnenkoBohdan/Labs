@@ -1,0 +1,14 @@
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.exe
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.deps.json
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.runtimeconfig.json
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.runtimeconfig.dev.json
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.dll
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\bin\Debug\netcoreapp3.1\hw2_3.24.pdb
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.csproj.AssemblyReference.cache
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.AssemblyInfoInputs.cache
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.AssemblyInfo.cs
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.csproj.CoreCompileInputs.cache
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.dll
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.pdb
+D:\KNUTGSH\3 Курс\Прога\HW\Hw2\hw2_3.24\hw2_3.24\obj\Debug\netcoreapp3.1\hw2_3.24.genruntimeconfig.cache

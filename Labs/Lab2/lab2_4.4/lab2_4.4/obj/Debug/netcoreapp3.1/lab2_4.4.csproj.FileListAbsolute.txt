@@ -1,0 +1,14 @@
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.exe
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.deps.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.runtimeconfig.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.runtimeconfig.dev.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.dll
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\bin\Debug\netcoreapp3.1\lab2_4.4.pdb
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.csproj.AssemblyReference.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.AssemblyInfoInputs.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.AssemblyInfo.cs
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.csproj.CoreCompileInputs.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.dll
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.pdb
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab2\lab2_4.4\lab2_4.4\obj\Debug\netcoreapp3.1\lab2_4.4.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.exe
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.deps.json
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.runtimeconfig.json
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.runtimeconfig.dev.json
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.dll
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\bin\Debug\netcoreapp3.1\lab1_1.5.pdb
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.csproj.AssemblyReference.cache
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.AssemblyInfoInputs.cache
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.AssemblyInfo.cs
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.csproj.CoreCompileInputs.cache
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.dll
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.pdb
+D:\KNUTGSH\3 Курс\Прога\lab1_1.5\lab1_1.5\obj\Debug\netcoreapp3.1\lab1_1.5.genruntimeconfig.cache

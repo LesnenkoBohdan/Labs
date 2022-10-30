@@ -1,0 +1,14 @@
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.exe
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.deps.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.runtimeconfig.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.runtimeconfig.dev.json
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.dll
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\bin\Debug\netcoreapp3.1\lab3_1.4.pdb
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.csproj.AssemblyReference.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.AssemblyInfoInputs.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.AssemblyInfo.cs
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.csproj.CoreCompileInputs.cache
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.dll
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.pdb
+D:\KNUTGSH\3 Курс\Прога\Labs\Lab3\lab3_1.4\lab3_1.4\obj\Debug\netcoreapp3.1\lab3_1.4.genruntimeconfig.cache
