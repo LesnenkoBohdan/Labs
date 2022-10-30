@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
+
 namespace lab1_2._3
 {
     class Program

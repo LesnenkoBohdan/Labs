@@ -1,5 +1,5 @@
 ﻿using System;
-
+/*Lab1_2 Task 3_24*/
 namespace hw2_3._24
 {
     class Program
