@@ -3,6 +3,7 @@
 namespace lab3_1._6
 {
 
+
     class Program
     {
         class Dog

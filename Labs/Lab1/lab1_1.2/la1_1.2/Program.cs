@@ -1,4 +1,4 @@
-﻿/* 1.2 Напишіть програму "Hello, World" */
+﻿/* 1.2 Напишіть програму "Hello, World"*/
 
 using System;
 

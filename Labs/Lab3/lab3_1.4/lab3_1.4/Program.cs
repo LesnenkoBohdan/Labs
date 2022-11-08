@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace lab3_1._4
 {
     class Program
